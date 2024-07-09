@@ -8,7 +8,7 @@ Chatbot AI Android app is designed to provide users with a conversational AI ass
 
 **Natural Language Interaction:** The app enables users to have text or voice-based conversations with the AI chatbot, making interactions feel more human-like and intuitive.
 
-**Content Generation:** Generate content, such as articles, reports, or summaries, based on user input.
+**Content Generation:** Generate content, such as articles, reports, or summaries, based on user input. dkj
 
 **Text-to-Speech and Speech-to-Text:** Integration with text-to-speech and speech-to-text capabilities for voice interactions.
 
